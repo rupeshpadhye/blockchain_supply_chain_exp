@@ -27,6 +27,8 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 
 1. Run `truffle migrate --reset --network rinkeby`
 
+- Create `.infura` and `.secret` files in `project-6` contains mnemonic and project id
+
 Network: rinkeby (id: 4)
   ConsumerRole: 0x47Ce67cb09ad2470BE2cd600876bc70460CB89CE
   DistributorRole: 0x4265dfCcb7E1B5c0caaA8874cdD72aCc1f3945C7
@@ -37,6 +39,7 @@ Network: rinkeby (id: 4)
 
 
 - Transaction ID: 0xae66e9af68fd645ec5d6252e9af0eb885a657d693cff6684f47cf7a7d6cea236
+
 - Contract address ([Contract deployed in Rinkeby](https://rinkeby.etherscan.io/tx/0xae66e9af68fd645ec5d6252e9af0eb885a657d693cff6684f47cf7a7d6cea236#eventlog))
 
 
